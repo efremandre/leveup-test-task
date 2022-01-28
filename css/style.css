@@ -84,6 +84,11 @@ a {
 	line-height: 100%;
 	text-align: center;
 }
+@media (max-width : 600px) {
+	.title {
+	font-size: 80px;
+}
+}
 
 /*NAVIGAtiON*/
 .nav {
