@@ -695,13 +695,13 @@ margin-top: 50px;
 	color: var(--text);
 	outline: none;
 }
-.forms__label:hover {
+.form__label:hover {
 	cursor: pointer;
 }
-.forms__input:hover {
+.form__input:hover {
 	cursor: pointer;
 }
-.forms__input:focus {
+.form__input:focus {
 	border-bottom: 1px solid var(--darkAccent);
 }
 .form__btn {
