@@ -457,7 +457,7 @@ a {
 /*--second-promoblock--*/
 .main__second-promoblock {
 	padding: 50px 0;
-	background: url('/img/bg-sec-prom.jpg') fixed;
+	background: url('img/bg-sec-prom.jpg') fixed;
 }
 .second-promoblock {
 	
@@ -533,11 +533,11 @@ margin-top: 50px;
 }
 .slick-arrow.slick-prev {
 	left: -70px;
-	background: url('/img/arrow_l.svg') 0 0 / 100% no-repeat;
+	background: url('img/arrow_l.svg') 0 0 / 100% no-repeat;
 }
 .slick-arrow.slick-next {
 	right: -70px;
-	background: url('/img/arrow_r.svg') 0 0 / 100% no-repeat;
+	background: url('img/arrow_r.svg') 0 0 / 100% no-repeat;
 }
 .slick-list {
   overflow: hidden;
@@ -582,7 +582,7 @@ margin-top: 50px;
 /*---form--*/
 .main__form {
 	padding: 25px 0;
-	background: url('/img/bg-sec-prom.jpg') fixed;
+	background: url('img/bg-sec-prom.jpg') fixed;
 }
 .form__container {
 	margin: 0 auto;
@@ -718,5 +718,5 @@ margin-top: 50px;
 
 /*FOOTER*/
 .footer {
-	background: url('/img/bg-sec-prom.jpg') fixed;
+	background: url('img/bg-sec-prom.jpg') fixed;
 }
