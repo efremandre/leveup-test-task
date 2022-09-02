@@ -2,6 +2,6 @@
 
 Представляю выполнение тестого задания, которое мне предложили выполнить после отклика на вакансию HTML-верстальшик.
 
-[Деплой задания](https://efremandre.github.io/LevelUp-test-task-/)
+[Деплой задания](https://efremandre.github.io/LevelUp-test-task/)
 
 ![ТЗ](https://raw.githubusercontent.com/efremandre/LevelUp-test-task-/main/img/test_task_descript.png)
